@@ -11,6 +11,6 @@ public class Addition {
         System.out.print("Enter first integer: ");
         int number1 = input.nextInt();
 
-        System.out.print("Alizhan");
+        System.out.print("Alizhan Krutoi");
     }
 }
